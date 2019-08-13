@@ -5,10 +5,11 @@ AT Rate Limitting is an application which aims to set a certain number of limit 
 
 ## Pre-requisite
 List of language and library needed to be installed on your system.
+
 |Language | Version|
-|---|---|
-|Python|3.6.4|
-|Flask|1.1.1|
+|--- | --- |
+|Python | 3.6.4 |
+|Flask | 1.1.1 |
 
 ## Installation
 Installing the application:
