@@ -15,8 +15,8 @@ List of language and library needed to be installed on your system.
 Installing the application:
 1. Ensure you have Python 3.6.4 installed
 2. Install flask python library by using the command:
-- pip install flask==1.1.1
-- pip check
+  - Run `pip install flask==1.1.1`
+  - Run `pip check`
 
 ## Running the application
 To run the application, we need to set the environment variable of FLASK_APP.
