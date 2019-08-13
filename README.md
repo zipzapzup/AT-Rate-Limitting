@@ -18,3 +18,14 @@ Installing the application:
 - pip check
 
 ## Running the application
+To run the application, we need to set the environment variable of FLASK_APP.
+
+Windows
+1. Change Directory to `app`
+2. Run `set FLASK_APP=ratelimiter.py`
+3. Run `python -m flask run`
+
+Linux
+1. Change Directory to `app`
+2. Run `export FLASK_APP=ratelimiter.py`
+3. Run `python -m flask run`
