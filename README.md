@@ -11,6 +11,6 @@ Library:
 - Flask 1.1.1
 
 ## Installation
-Installation: 
+Steps: 
 - pip install flask==1.1.1
 - pip check
