@@ -30,3 +30,6 @@ Linux
 1. Change Directory to `app`
 2. Run `export FLASK_APP=ratelimiter.py`
 3. Run `python -m flask run`
+
+## Open in Browser
+Once Application is running, we can open up in browser to see the end result. Type `http://127.0.0.1:5000` in the address bar of your browser.
